@@ -1,6 +1,6 @@
 # Runtime trace — what `/ux-psychology` actually applies, and what it misses
 
-Evidence for [#5](https://github.com/Storzen/skills/issues/5). Baseline: `c975f21`
+Evidence for [#5](https://github.com/vianneymougang/skills/issues/5). Baseline: `c975f21`
 (pre-rewrite). Three contrasted screens, each run by following `SKILL.md`'s
 "How to apply" literally: name the screen's job → open the family file(s) the
 mapping table gives → take the principles whose "applies / doesn't" covers the

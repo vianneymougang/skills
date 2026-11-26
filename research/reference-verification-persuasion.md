@@ -1,6 +1,6 @@
 # Reference verification — persuasion family (UX-P04, P30, P31, P32, P33, P34)
 
-Resolves [#12](https://github.com/Storzen/skills/issues/12). Re-slice of [#4](https://github.com/Storzen/skills/issues/4), persuasion family only — 6 entries.
+Resolves [#12](https://github.com/vianneymougang/skills/issues/12). Re-slice of [#4](https://github.com/vianneymougang/skills/issues/4), persuasion family only — 6 entries.
 
 **Method.** Every DOI below was resolved against the Crossref metadata API
 (`api.crossref.org/works/<doi>`) and its author list, year, journal, volume and
@@ -65,7 +65,7 @@ Verdict key: `CORRECT` — author, year and work introduced the effect.
 empirical origin.
 
 **Ethical guards.** **All six entries carry one**, and none of the six appears on
-the known-missing list in [#8](https://github.com/Storzen/skills/issues/8)
+the known-missing list in [#8](https://github.com/vianneymougang/skills/issues/8)
 (`UX-P08`, `UX-P15`, `UX-P19`–`UX-P24`, `UX-P35`, `UX-P37`, `UX-P39`, `UX-P40`).
 This is the only fully guard-compliant family audited so far, which is what the
 file's own preamble promises — "every one is dual-use, so the ethical guard is
@@ -576,7 +576,7 @@ All six, in descending order of how wrong the current text is:
 
 Unlike the perception family, **none of these six owes an `Ethical guard`** —
 all six already have one, and none appears on the
-[#8](https://github.com/Storzen/skills/issues/8) list. Recorded so the rewrite
+[#8](https://github.com/vianneymougang/skills/issues/8) list. Recorded so the rewrite
 does not "fix" something that is not broken.
 
 ## Findings for the v2 entry template (#7)

@@ -1,6 +1,6 @@
 # Reference verification — cognition family (UX-P01, P06, P07, P08, P13, P14, P15, P16, P17)
 
-Resolves [#9](https://github.com/Storzen/skills/issues/9). Re-slice of [#4](https://github.com/Storzen/skills/issues/4), cognition family only — 9 entries.
+Resolves [#9](https://github.com/vianneymougang/skills/issues/9). Re-slice of [#4](https://github.com/vianneymougang/skills/issues/4), cognition family only — 9 entries.
 
 **Method.** Every DOI below was resolved against the Crossref metadata API
 (`api.crossref.org/works/<doi>`) and its author list, year, journal, volume and
@@ -170,7 +170,7 @@ literature's actual position. This is the best-calibrated claim in the family.
    where the argument is decision cost rather than memory.
 
 **Also.** This entry still carries no `Ethical guard` — one of the 12 known
-non-compliant entries recorded in [#8](https://github.com/Storzen/skills/issues/8).
+non-compliant entries recorded in [#8](https://github.com/vianneymougang/skills/issues/8).
 Not this ticket's business, noted so the rewrite doesn't lose it.
 
 ### UX-P13 — Tesler's law
@@ -342,7 +342,7 @@ All nine, in descending order of how wrong the current text is:
    Kahneman 1974 as the origin.
 7. **`UX-P08`** — mark "Miller's law" as a UX coinage; cut or relocate the
    nav-length application; keep the chunking example and the ~4 hedge as they are.
-   (Ethical guard still owed — see [#8](https://github.com/Storzen/skills/issues/8).)
+   (Ethical guard still owed — see [#8](https://github.com/vianneymougang/skills/issues/8).)
 8. **`UX-P01`** — name the three default pathways rather than status-quo bias
    alone; note that "trivially changeable" only defuses the effort pathway.
 9. **`UX-P13`** — supply Tesler ca. 1984 with the primary link; restore the third

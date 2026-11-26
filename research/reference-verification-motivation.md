@@ -1,6 +1,6 @@
 # Reference verification — motivation family (UX-P02, P03, P05, P11, P25, P26, P27, P28, P29)
 
-Resolves [#10](https://github.com/Storzen/skills/issues/10). Re-slice of [#4](https://github.com/Storzen/skills/issues/4), motivation family only — 9 entries.
+Resolves [#10](https://github.com/vianneymougang/skills/issues/10). Re-slice of [#4](https://github.com/vianneymougang/skills/issues/4), motivation family only — 9 entries.
 
 **Method.** Every DOI below was resolved against the Crossref metadata API
 (`api.crossref.org/works/<doi>`) and its author list, year, journal, volume and
@@ -51,7 +51,7 @@ trade book, no empirical origin.
 
 **Ethical guards.** All nine motivation entries carry an `Ethical guard`
 section, so none of this family is among the known non-compliant IDs recorded in
-[#8](https://github.com/Storzen/skills/issues/8). Flagged only, nothing to fix —
+[#8](https://github.com/vianneymougang/skills/issues/8). Flagged only, nothing to fix —
 but see the template findings: three of these guards are *stricter than the
 source they sit under*, which is a different problem than a missing guard.
 

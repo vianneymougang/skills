@@ -1,6 +1,6 @@
 # Reference verification — perception family (UX-P09, P10, P18, P19, P20, P21, P22, P23, P24)
 
-Resolves [#11](https://github.com/Storzen/skills/issues/11). Re-slice of [#4](https://github.com/Storzen/skills/issues/4), perception family only — 9 entries.
+Resolves [#11](https://github.com/vianneymougang/skills/issues/11). Re-slice of [#4](https://github.com/vianneymougang/skills/issues/4), perception family only — 9 entries.
 
 **Method.** Every DOI below was resolved against the Crossref metadata API
 (`api.crossref.org/works/<doi>`) and its author list, year, journal, volume and
@@ -53,7 +53,7 @@ empirical origin.
 **Ethical guards.** Only `UX-P09` and `UX-P18` carry one. **Seven of nine** —
 `UX-P10`, `UX-P19`, `UX-P20`, `UX-P21`, `UX-P22`, `UX-P23`, `UX-P24` — have no
 `Ethical guard` section, and are therefore among the non-compliant entries
-recorded in [#8](https://github.com/Storzen/skills/issues/8). Flagged only,
+recorded in [#8](https://github.com/vianneymougang/skills/issues/8). Flagged only,
 nothing done here. Worth saying that most of them are defensible omissions in
 substance (there is no obvious dark pattern in "space related things closer
 together") — but the guard is now mandatory catalog-wide, so the rewrite owes
@@ -516,7 +516,7 @@ All nine, in descending order of how wrong the current text is:
    `UX-P10`, which is closer to von Restorff's argument than `UX-P10` itself is.
 
 Seven of these nine also owe an `Ethical guard` under
-[#8](https://github.com/Storzen/skills/issues/8) — see the note under the verdict
+[#8](https://github.com/vianneymougang/skills/issues/8) — see the note under the verdict
 table. Not this ticket's business; flagged so the rewrite does not lose it.
 
 ## Findings for the v2 entry template (#7)

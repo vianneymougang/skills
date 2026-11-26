@@ -1,6 +1,6 @@
 # Reference verification — trust family (UX-P12, P35, P36, P37, P38, P39, P40)
 
-Resolves [#13](https://github.com/Storzen/skills/issues/13). Re-slice of [#4](https://github.com/Storzen/skills/issues/4), trust family only — 7 entries.
+Resolves [#13](https://github.com/vianneymougang/skills/issues/13). Re-slice of [#4](https://github.com/vianneymougang/skills/issues/4), trust family only — 7 entries.
 
 **Method.** Every DOI below was resolved against the Crossref metadata API
 (`api.crossref.org/works/<doi>`) and its author list, year, journal, volume and
@@ -81,7 +81,7 @@ does **not** contain `2b12304`, the commit that gave guards to `UX-P07`,
 it has a guard**, and a rewrite working from the branch must not "fix" it.
 Assessed against `main`:
 
-| ID | Guard on `main`? | On the [#8](https://github.com/Storzen/skills/issues/8) non-compliant list? |
+| ID | Guard on `main`? | On the [#8](https://github.com/vianneymougang/skills/issues/8) non-compliant list? |
 |---|---|---|
 | `UX-P12` | ✅ via `2b12304` | no — resolved |
 | `UX-P35` | ❌ | **yes** |
@@ -664,7 +664,7 @@ All seven, in descending order of how wrong the current text is:
    2013), rather than leaving that collision undiscovered.
 
 Four of these seven also owe an `Ethical guard` under
-[#8](https://github.com/Storzen/skills/issues/8) — `UX-P35`, `UX-P37`, `UX-P39`,
+[#8](https://github.com/vianneymougang/skills/issues/8) — `UX-P35`, `UX-P37`, `UX-P39`,
 `UX-P40`, exactly as listed there. **`UX-P12` does not**: it received one in
 commit `2b12304` on `main`, which this branch does not contain. Not this ticket's
 business; flagged so the rewrite neither loses the four nor duplicates the one.
